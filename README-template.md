@@ -64,7 +64,7 @@ In this project we have used Semantic HTML5 markup, CSS, Flexbox, CSS Grid, Boot
 
 - Github - [Alibek & Anel](https://github.com/Alibek307) & (https://github.com/aneloo2)
 - Frontend Mentor - [@aneloo2 & @Alibek307](https://www.frontendmentor.io/profile/Alibek307) & (https://www.frontendmentor.io/profile/aneloo2)
-
+- insta - [@fallessbek & @aneloo2]
 ## Acknowledgments
 
 Thank you for our web development teacher for giving us such a task so that we develop our coding skills.
